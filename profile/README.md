@@ -85,20 +85,27 @@ apps side we ship full products across mobile and web. This page is our portfoli
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/Tawil-Studio/.github/main/profile/assets/cardify.png" alt="Cardify"><br>
       <b>Cardify</b><br>
       <sub>A digital business card — share your profile with an NFC tap or QR scan. <em>React Native · Node · MongoDB</em></sub>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/Tawil-Studio/.github/main/profile/assets/kittaby.png" alt="Kittaby"><br>
       <b>Kittaby</b><br>
       <sub>An ebook reading &amp; publishing platform for readers, authors, and publishers. <em>React · Supabase</em></sub>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/Tawil-Studio/.github/main/profile/assets/zeus.png" alt="Zeus"><br>
       <b>Zeus</b><br>
       <sub>A social fitness app — guided workouts, challenges, and progress tracking. <em>React Native · Firebase</em></sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Tawil-Studio/.github/main/profile/assets/supers.png" alt="SuperS"><br>
+      <b>SuperS</b><br>
+      <sub>A smart-home "super sensor" — one chip senses temperature, light, sound, motion &amp; flame, with ML + Firebase monitoring. <em>Arduino · Python · Firebase</em></sub>
     </td>
   </tr>
 </table>
@@ -107,7 +114,8 @@ apps side we ship full products across mobile and web. This page is our portfoli
 
 - **Games:** Unity, C# — with Photon, PlayFab, Google Play Games, and AdMob where they fit.
 - **Apps:** React, React Native / Expo, TypeScript, Node.js, MongoDB, Supabase, Firebase.
-- **Platforms:** iOS, Android, and the web.
+- **Hardware / IoT:** Arduino, sensors, and Firebase-connected devices.
+- **Platforms:** iOS, Android, web, and embedded.
 
 ## 📬 Connect
 
