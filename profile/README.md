@@ -91,7 +91,7 @@ apps side we ship full products across mobile and web. This page is our portfoli
       <sub>A digital business card — share your profile with an NFC tap or QR scan. <em>React Native · Node · MongoDB</em></sub>
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Tawil-Studio/.github/main/profile/assets/kittaby.png" alt="Kittaby"><br>
+      <img src="https://raw.githubusercontent.com/Tawil-Studio/.github/main/profile/assets/kittaby-2.png" alt="Kittaby"><br>
       <b>Kittaby</b><br>
       <sub>An ebook reading &amp; publishing platform for readers, authors, and publishers. <em>React · Supabase</em></sub>
     </td>
